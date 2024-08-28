@@ -634,8 +634,8 @@ a:focus {
     margin-bottom: 45px;
     padding: 150px 0 90px 0;
     text-align: center;
-/*     background: linear-gradient(45deg,rgb(255, 94, 94),rgb(0, 200, 255),rgb(128, 255, 128)); */
-    background-image:url('/img/240_F_410334513_KAgT95VYwRqUCj4i5oAgXTSvm4C4Svpc.jpg') !important;
+    background: linear-gradient(45deg,rgb(255, 94, 94),rgb(0, 200, 255),rgb(128, 255, 128));
+/*     background-image:url('/img/240_F_410334513_KAgT95VYwRqUCj4i5oAgXTSvm4C4Svpc.jpg') !important; */
     background-position: center;
     /* background-repeat: repeat-x; */
 }
@@ -1324,18 +1324,19 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: tan;
+    background: linear-gradient(45deg,rgb(128, 255, 128),rgb(0, 200, 255));
 }
 
 .contact .container-fluid {
-    background: url("/img/New folder/cheerful-stylist-applying-makeup-anonymous-woman_23-2147783855.jpg") left center no-repeat !important;
+    background: linear-gradient(45deg,rgb(128, 255, 128),rgb(0, 200, 255));
+/*     background: url("/img/New folder/cheerful-stylist-applying-makeup-anonymous-woman_23-2147783855.jpg") left center no-repeat !important; */
     background-size: contain;
 }
 
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: tan;
+/*     background: tan; */
 }
 
 .contact .contact-form input {
